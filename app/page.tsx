@@ -19,7 +19,7 @@ export default function Page() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          I am a driven Data Scientist, Machine Learning Engineer, and DevOps
+          Hello there, This is Swamy and I am a driven Data Scientist, Machine Learning Engineer, and DevOps
           Specialist passionate about leveraging Artificial Intelligence (AI) and Generative AI
           to solve complex problems and create innovative solutions. With nearly 2 years of experience in
           Data Science and hands-on exposure to DevOps practices, I bring a unique blend of expertise in
