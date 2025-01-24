@@ -7,15 +7,21 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Mithril AI",
+    title: "Student performance Indicator",
     year: 2024,
-    description: "Open science AI resarch lab",
-    url: "https://github.com/mithrilai",
+    description: "End to End ML project",
+    url: "https://github.com/klnswamy1702/Student-Performance-Indicator",
   },
   {
-    title: "OpenDeepLearning",
+    title: "Network Security Data Science Project",
     year: 2023,
-    description: "Open source AI education resources",
-    url: "https://opendeeplearning.xyz/",
+    description: "Network Security Projects For Phising Data",
+    url: "https://github.com/klnswamy1702/Network-Security-Project-For-Phising-Data",
+  },
+  {
+    title: "RAG-Chat-with-multiple-XLSX's",
+    year: 2023,
+    description: "Chat with Excel",
+    url: "https://github.com/klnswamy1702/rag-document/",
   },
 ];
