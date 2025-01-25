@@ -18,12 +18,19 @@ export default function Page() {
         Swamy - Data Scientist
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
-        <p>
+        {/* <p>
           Hello there, This is Swamy and I am a driven Data Scientist, Machine Learning Engineer, and DevOps
           Specialist passionate about leveraging Artificial Intelligence (AI) and Generative AI
           to solve complex problems and create innovative solutions. With nearly 2 years of experience in
           Data Science and hands-on exposure to DevOps practices, I bring a unique blend of expertise in
           building scalable AI systems and automating workflows.
+        </p> */}
+        <p>Hey there! I'm Swamy – a Data Scientist, Machine Learning Engineer, and DevOps Specialist 
+          who loves playing (and sometimes wrestling) with data science. With nearly 2 years of experience,
+           I've been taming AI to solve tricky problems and using Generative AI to create cool, innovative stuff. 
+           I also dabble in DevOps, making sure things don't just work but work scalably. My favorite programming language? Python, of course – the Swiss Army knife of coding!
+            Whether I’m crunching data, building models, or automating workflows, Python and I make a dynamic duo. 
+            If it involves data, AI, or workflows, I’m all in – because playing with Python and data is just my kind of fun! 🐍🎉
         </p>
         {/* <p>
           During my tenure with the AI and Emerging Technologies groups at ineuron and PW Skills,
